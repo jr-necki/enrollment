@@ -1,10 +1,12 @@
 # enrollment
 ![Language](https://img.shields.io/badge/Language-java-orange.svg) 
+![Language](https://img.shields.io/badge/GUI-swing-yellow.svg)
 ![Language](https://img.shields.io/badge/IDE-eclipse-blue.svg)
 
 # 🚀소개
 명지대학교 2020 1학기 **절차적사고와 프로그래밍** 기말과제 프로젝트입니다.<br></br>
 **MVP패턴**을 사용하여 수강신청 시스템을 구현하였습니다.
+자바 스윙을 이용하여 gui를 구현하였습니다.
 
 
 # ⚙주요 기능
