@@ -34,3 +34,4 @@
 <img src="https://user-images.githubusercontent.com/70804578/117978728-25af8880-b36d-11eb-947d-f32312f79735.png">
 쓰레기통 버튼을 누르면 모두 삭제할 수 있습니다.<br></br>
 강좌를 선택후 X버튼을 누르면 해당 강좌를 삭제 할 수 있습니다.<br></br>
+
